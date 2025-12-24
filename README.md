@@ -10,4 +10,4 @@ This includes
 - Virtualization
 - Process optimization and automation
 
-As hobby projects I also develop electronics hardware and systems based on Raspberry Pi
+As hobby projects I also develop electronics hardware ord systems based on Raspberry Pi and run my local homelab.

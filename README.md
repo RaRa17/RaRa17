@@ -9,3 +9,5 @@ This includes
 - DevOps
 - Virtualization
 - Process optimization and automation
+
+As hobby projects I also develop electronics hardware and systems based on Raspberry Pi
